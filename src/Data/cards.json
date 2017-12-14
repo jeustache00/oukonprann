@@ -1,0 +1,129 @@
+{
+  "cards":[
+      {
+          "id":1,
+          "eng":"Hello (General greeting)",
+          "creole": "Bonjou"
+      },
+      {
+          "id": 2,
+          "eng":"Do you understand?",
+          "creole": "Ou konprann?"
+      },
+      {
+          "id": 3,
+          "eng":"Yes",
+          "creole": "Wi"
+      },
+      {
+          "id":4,
+          "eng":"Do you speak English?",
+          "creole": "Eske ou pale angle?"
+      },
+      {
+          "id": 5,
+          "eng":"How much is this?",
+          "creole": "Konbyen?"
+      },
+      {
+          "id": 6,
+          "eng":"Thank you",
+          "creole": "Mesi"
+      },
+      {
+          "id":7,
+          "eng":"Help!",
+          "creole": "Anmwe!"
+      },
+      {
+          "id": 8,
+          "eng":"Stop!",
+          "creole": "Rete!"
+      },
+      {
+          "id": 9,
+          "eng":"Good night",
+          "creole": "Bonswa"
+      },
+      {
+          "id":10,
+          "eng":"Sorry!",
+          "creole": "Padon!"
+      },
+      {
+          "id": 11,
+          "eng":"How are you?",
+          "creole": "Sak pase?"
+      },
+      {
+          "id": 12,
+          "eng":"What's your name?",
+          "creole": "Koman ou rele?"
+      },
+      {
+          "id":13,
+          "eng":"Please speak more slowly",
+          "creole": "Souple pale dousma"
+      },
+      {
+          "id": 14,
+          "eng":"Monday",
+          "creole": "Lendi"
+      },
+      {
+          "id": 15,
+          "eng":"Tuesday",
+          "creole": "Madi"
+      },
+      {
+          "id":16,
+          "eng":"Wednesday",
+          "creole": "Mekredi"
+      },
+      {
+          "id": 17,
+          "eng":"Thursday",
+          "creole": "Jedi"
+      },
+      {
+          "id": 18,
+          "eng":"Friday",
+          "creole": "Vandredi"
+      },
+      {
+          "id":19,
+          "eng":"Saturday",
+          "creole": "Samdi"
+      },
+      {
+          "id": 20,
+          "eng":"Sunday",
+          "creole": "Dimanch"
+      },
+      {
+          "id": 21,
+          "eng":"Where are we?",
+          "creole": "Kote nou ye?"
+      },
+      {
+          "id":22,
+          "eng":"To Eat",
+          "creole": "Manje"
+      },
+      {
+          "id": 23,
+          "eng":"To Run",
+          "creole": "Kouri"
+      },
+      {
+          "id": 24,
+          "eng":"Yesterday",
+          "creole": "Ye"
+      },
+      {
+          "id": 25,
+          "eng":"Where can we buy…?",
+          "creole": "Kote nou ka achte?"
+      }
+    ]
+}

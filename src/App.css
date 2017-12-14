@@ -1,0 +1,28 @@
+.App{
+  background: url('http://i2.cdn.turner.com/cnn/2010/images/01/28/haiti.artwork.cover.jpg');
+  background-size: cover;
+  height: 100vh;
+}
+
+.cardRow{
+  padding: 5px;
+}
+
+.btnRow{
+  padding: 5px;
+}
+
+/* ----------- Non-Retina Screens ----------- */
+@media screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
+  and (-webkit-min-device-pixel-ratio: 1) {
+}
+
+/* ----------- Retina Screens ----------- */
+@media screen
+  and (min-device-width: 1200px)
+  and (max-device-width: 1600px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) {
+}

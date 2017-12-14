@@ -1,0 +1,21 @@
+.buttonContainer{
+  color: #4f85dd;
+}
+.btn{
+  font-size: 1.5em;
+  width: 200px;
+  height: 70px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: #35383d;
+  margin: auto;
+  margin-top: 4%;
+}
+
+.btn:active{
+  position: relative;
+  top: 3px;
+  background: #d4e1f7;
+  border: none;
+}
